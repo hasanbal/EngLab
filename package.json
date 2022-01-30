@@ -1,0 +1,23 @@
+{
+  "name": "englab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aa-sqlite": "^1.0.29",
+    "body-parser": "^1.19.1",
+    "cookie-parser": "^1.4.6",
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "express-session": "^1.17.2",
+    "firebase": "^9.6.5",
+    "firebase-admin": "^10.0.2",
+    "formidable": "^2.0.1",
+    "sqlite3": "^5.0.2"
+  }
+}
