@@ -9,18 +9,26 @@ Hesap oluşturmadan EngLab'ı kullanman için seni ziyaretci hesabı karşılaya
 Halihazırda havuzunda 100'den fazla kelime bulunduran admin hesabını kullanmak için aşağıdaki bilgiler ile giriş yapabilirsin:
 
 Kullanıcı Adı: admin
+
 Şifre: 123
 
 Kullandığım Teknolojiler:
+
 #### Backend:
-Node.js / Express
+Node.js
+
+Express
 
 #### Frontend:
 HTML
+
 CSS
+
 JavaScript
+
 Bootstrap
 
 #### Database:
 MySQL
+
 SQLite3
